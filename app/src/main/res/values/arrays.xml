@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pressureUnits">
+        <item>@string/setting_unit_hpa</item>
+        <item>@string/setting_unit_kpa</item>
+        <item>@string/setting_unit_mmhg</item>
+        <item>@string/setting_unit_inhg</item>
+    </array>
+    <array name="pressureUnitsValues">
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>mm Hg</item>
+        <item>in Hg</item>
+    </array>
+    <array name="speedUnits">
+        <item>@string/setting_unit_mps</item>
+        <item>@string/setting_unit_kph</item>
+        <item>@string/setting_unit_mph</item>
+        <item>@string/setting_unit_bft</item>
+        <item>@string/setting_unit_kn</item>
+    </array>
+    <array name="speedUnitsValues">
+        <item>m/s</item>
+        <item>kph</item>
+        <item>mph</item>
+        <item>bft</item>
+        <item>kn</item>
+    </array>
+    <array name="temperatureUnits">
+        <item>@string/setting_unit_Celsuis</item>
+        <item>@string/setting_unit_Fahrenheit</item>
+        <item>@string/setting_unit_Kelvin</item>
+    </array>
+    <array name="temperatureUnitsValues">
+        <item>°C</item>
+        <item>°F</item>
+        <item>K</item>
+    </array>
+    <array name="windDirectionArrows">
+        <item>↓</item>
+        <item>↙</item>
+        <item>←</item>
+        <item>↖</item>
+        <item>↑</item>
+        <item>↗</item>
+        <item>→</item>
+        <item>↘</item>
+    </array>
+    <array name="windDirections">
+        <item>@string/wind_direction_north</item>
+        <item>@string/wind_direction_north_north_east</item>
+        <item>@string/wind_direction_north_east</item>
+        <item>@string/wind_direction_east_north_east</item>
+        <item>@string/wind_direction_east</item>
+        <item>@string/wind_direction_east_south_east</item>
+        <item>@string/wind_direction_south_east</item>
+        <item>@string/wind_direction_south_south_east</item>
+        <item>@string/wind_direction_south</item>
+        <item>@string/wind_direction_south_south_west</item>
+        <item>@string/wind_direction_south_west</item>
+        <item>@string/wind_direction_west_south_west</item>
+        <item>@string/wind_direction_west</item>
+        <item>@string/wind_direction_west_north_west</item>
+        <item>@string/wind_direction_north_west</item>
+        <item>@string/wind_direction_north_north_west</item>
+    </array>
+</resources>
